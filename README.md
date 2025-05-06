@@ -1,4 +1,4 @@
-# Hey There! 😁👋🏻 test123
+# Hey There! 😁👋🏻
 
 <!--
 **hakamakml/hakamakml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Hakam (he/they)** - I'm a tech enthusiast on a journey from **data-driven insights** to **secure and automated infrastructures**.
+**I'm Hakam (he/they)** - I'm a tech enthusiast on a journey from **data-driven insights** to **secure and automated infrastructures**. Graduated in Information Systems with a concentration in Business Intelligence at **Bina Nusantara University**
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,mysql,powershell,linux,figma&theme=light)](https://skillicons.dev)
-
-🎓 Graduated in Information Systems with a concentration in Business Intelligence at **Bina Nusantara University**
 
 - 🔐 Now diving headfirst into the world of **Cybersecurity** and **DevOps**  
 - 💡 Blending the mindset of a data analyst with the precision of a security engineer  
