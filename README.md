@@ -1,4 +1,4 @@
-# Hello, I'm Akmal 😁👋🏻
+# Hey There! 😁👋🏻
 
 <!--
 **hakamakml/hakamakml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A tech enthusiast on a journey from **data-driven insights** to **secure and automated infrastructures**.
+**I'm Hakam (he/they)** - I'm a tech enthusiast on a journey from **data-driven insights** to **secure and automated infrastructures**.
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,mysql,powershell,linux,figma&theme=light)](https://skillicons.dev)
 
 🎓 Graduated in Information Systems with a concentration in Business Intelligence at **Bina Nusantara University**
 
@@ -55,19 +57,9 @@ SQL · Power BI · Python (for analysis) · Excel
 
 ---
 
-## 🌱 What I’m Learning Next
-
-- SIEM & Log Correlation  
-- Container Security Basics (Docker & Kubernetes)  
-- Python for Security Automation
-
----
-
 ## 🤝 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/akmal-hakam-rosyadi/)  
-- [Email](mailto:hakamakmal9@gmail.com)  
-- [Portfolio](https://drive.google.com/file/d/1ixM-EmCRX6h2_lhjY-cR5yLnVHFgoRSf/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-hakam-rosyadi/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakamakmal9@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1ixM-EmCRX6h2_lhjY-cR5yLnVHFgoRSf/view?usp=sharing)
 
 ---
 
