@@ -61,7 +61,14 @@ SQL · Power BI · Python (for analysis) · Excel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akmal-hakam-rosyadi/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakamakmal9@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://drive.google.com/file/d/1ixM-EmCRX6h2_lhjY-cR5yLnVHFgoRSf/view?usp=sharing)
 
----
-
 > *“Data tells the story, automation brings the scale, security keeps it safe.”*
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakamakml/hakamakml/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakamakml/hakamakml/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hakamakml/hakamakml/output/pacman-contribution-graph.svg">
+</picture>
+
+###
